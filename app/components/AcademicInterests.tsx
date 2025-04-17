@@ -15,7 +15,7 @@ export default function AcademicInterests() {
             <div className="mb-4">
               <h3 className="text-lg font-bold mb-2">Web Development & Healthcare Technology</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm mb-3">
-                My interest in programming has recently been geared towards web development where I am able to create tangible solutions from the concepts I learned in courses like CSC108. This aligns with my passion for healthcare technology, as I aim to develop solutions that make a positive impact on people's lives. I&apos;m particularly interested in the intersection of computer science and healthcare, exploring how technology can improve patient care and medical research.
+                My interest in programming has recently been geared towards web development where I am able to create tangible solutions from the concepts I learned in courses like CSC108. This aligns with my passion for healthcare technology, as I aim to develop solutions that make a positive impact on people&apos;s lives. I&apos;m particularly interested in the intersection of computer science and healthcare, exploring how technology can improve patient care and medical research.
               </p>
             </div>
 
