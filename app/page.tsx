@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Projects from './components/Projects';
 import Education from './components/Education';
-import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 export default function Home() {
   const skills = [

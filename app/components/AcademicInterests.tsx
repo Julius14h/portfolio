@@ -29,7 +29,7 @@ export default function AcademicInterests() {
             <div>
               <h3 className="text-lg font-bold mb-2">Future Goals</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm">
-                My dream is to become a software developer, with my current aspirations focused on gaining admission to UTM's Digital Health graduate program. I aim to develop innovative solutions that bridge the gap between technology and healthcare, while maintaining a strong ethical foundation in my work.
+                My dream is to become a software developer, with my current aspirations focused on gaining admission to UTM&apos;s Digital Health graduate program. I aim to develop innovative solutions that bridge the gap between technology and healthcare, while maintaining a strong ethical foundation in my work.
               </p>
             </div>
           </div>
