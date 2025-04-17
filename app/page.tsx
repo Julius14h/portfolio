@@ -64,7 +64,7 @@ export default function Home() {
                   I created this porfolio website using cursor just so I could apply for the UofT Computer Science internship position! Web developmet has been my favourite programming experience so far at UTM and I would love to get the chance to explore that further.
                 </p>
                 <p className="text-gray-600 dark:text-gray-300">
-                  I&apos;m passionate about creating innovative solutions and learning new technologies.
+                  My dream is to one day become a software developer in the healthcare industry and to gain admission to UTM's Digital Health graduate program next year.
                 </p>
               </div>
             </div>
