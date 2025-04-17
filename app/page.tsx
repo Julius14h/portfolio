@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Projects from './components/Projects';
 import Education from './components/Education';
+import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 export default function Home() {
   const skills = [
@@ -65,7 +66,7 @@ export default function Home() {
                   I created this porfolio website using cursor just so I could apply for the UofT Computer Science internship position! Web developmet has been my favourite programming experience so far at UTM and I would love to get the chance to explore that further.
                 </p>
                 <p className="text-gray-600 dark:text-gray-300">
-                  My goal is to become a software developer in the healthcare industry and to gain admission to UTM's Digital Health graduate program next year.
+                  I&apos;m passionate about creating innovative solutions and learning new technologies.
                 </p>
               </div>
             </div>

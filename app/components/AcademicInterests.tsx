@@ -15,14 +15,14 @@ export default function AcademicInterests() {
             <div className="mb-4">
               <h3 className="text-lg font-bold mb-2">Web Development & Healthcare Technology</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm mb-3">
-                My interest in programming has recently been geared towards web development where I am able to create tangible solutions from the concepts I learned in courses like CSC108. This aligns with my passion for healthcare technology, as I aim to develop solutions that make a positive impact on people's lives. I am particularly interested in creating educational content and tools that can help others.
+                My interest in programming has recently been geared towards web development where I am able to create tangible solutions from the concepts I learned in courses like CSC108. This aligns with my passion for healthcare technology, as I aim to develop solutions that make a positive impact on people's lives. I&apos;m particularly interested in the intersection of computer science and healthcare, exploring how technology can improve patient care and medical research.
               </p>
             </div>
 
             <div className="mb-4">
               <h3 className="text-lg font-bold mb-2">Ethical Technology & Research</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm mb-3">
-                My forensic science studies have deepened my interest in the ethical and societal implications of emerging technologies. I am particularly focused on understanding the empirical evidence supporting or questioning these tools and their historical context. This drives my passion for research and my interest in the growing integration of AI in education.
+                My forensic science studies have deepened my interest in the ethical and societal implications of emerging technologies. I am particularly focused on understanding the empirical evidence supporting or questioning these tools and their historical context. This drives my passion for research and my interest in the growing integration of AI in education. I&apos;m also fascinated by artificial intelligence and machine learning, especially their applications in healthcare and biological research.
               </p>
             </div>
 
