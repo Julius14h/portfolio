@@ -19,11 +19,6 @@ export default function Navigation() {
     <header className="bg-white dark:bg-gray-900 shadow-md sticky top-0 z-10">
       <div className="container mx-auto px-4">
         <nav className="flex flex-wrap items-center justify-between py-4">
-          <div className="text-2xl font-bold">
-            <Link href="/" className="text-blue-600 hover:text-blue-800">
-              Julius Henriques
-            </Link>
-          </div>
           <div className="hidden md:flex space-x-8">
             {navItems.map((item) => (
               <Link 
